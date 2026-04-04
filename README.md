@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:93c5fd,50:60a5fa,100:818cf8&text=DonDinDon%20Dev&fontColor=ffffff&fontSize=48&fontAlign=50&fontAlignY=38&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:7fb3d5,50:6b8fcf,100:8a84c7&text=DonDinDon%20Dev&fontColor=ffffff&fontSize=48&fontAlign=50&fontAlignY=38&animation=fadeIn" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3200&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Backend+Systems+%E2%80%A2+Integrations+%E2%80%A2+Automation;Spring+Boot+%E2%80%A2+PostgreSQL+%E2%80%A2+gRPC+%E2%80%A2+Docker+%E2%80%A2+S3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3200&pause=1200&color=4F6FA8&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Backend+Systems+%E2%80%A2+Integrations+%E2%80%A2+Automation;Spring+Boot+%E2%80%A2+PostgreSQL+%E2%80%A2+gRPC+%E2%80%A2+Docker+%E2%80%A2+S3" alt="Typing SVG" />
 
 <br />
 <br />
@@ -70,6 +70,6 @@ I care about architecture not as theory, but as a way to make delivery, support,
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:93c5fd,50:60a5fa,100:818cf8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7fb3d5,50:6b8fcf,100:8a84c7" />
 
 </div>
