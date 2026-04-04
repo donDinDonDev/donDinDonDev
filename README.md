@@ -70,6 +70,6 @@ I care about architecture not as theory, but as a way to make delivery, support,
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22d3ee,50:3b82f6,100:a855f7" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:93c5fd,50:60a5fa,100:818cf8" />
 
 </div>
