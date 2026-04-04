@@ -11,7 +11,7 @@
 
 # Hi, I'm Denis
 
-### Java Backend Developer focused on scalable, production-oriented backend systems
+### Java Backend Developer focused on distributed backend systems, integrations, and production architecture
 
 <p align="center">
 I design and build backend systems in Java / Spring Boot with a focus on clarity, reliability, and long-term maintainability.
@@ -26,28 +26,22 @@ I design and build backend systems in Java / Spring Boot with a focus on clarity
 
 I build backend systems for products that need more than code that simply works.
 
-My focus is on software that stays:
+My focus is on systems that stay clear in architecture, reliable in production, and maintainable as complexity grows.
 
-- clear in architecture
-- reliable in production
-- maintainable as complexity grows
-- practical to deliver, support, and extend
-
-I work across backend architecture, business logic, API design, authentication, persistence, integrations, and engineering automation.
+I work across backend architecture, business logic, API design, authentication, persistence, integrations, engineering automation, and production-focused backend delivery.
 
 ---
-
 ## What I Work With
 
 - **Java / Spring Boot backend services**
 - **REST API and gRPC services**
 - **JWT / OAuth2 authentication and authorization**
 - **PostgreSQL, Redis, and transactional backend workflows**
-- **S3-compatible object storage and file handling**
+- **distributed and integration-heavy backend systems, including event-driven workflows**
 - **Docker and CI/CD pipelines**
-- **integration-heavy systems and external APIs**
-- **Telegram bots and Mini Apps**
-- **Python tooling, parsers, and automation**
+- **S3-compatible object storage and file handling**
+- **testing and delivery tooling, including Testcontainers and GitHub Actions**
+- **Python tooling, automation, and AI-related backend services**
 - **AI-assisted development workflows, including practical Codex usage**
 
 ---
@@ -61,10 +55,9 @@ For me, good backend systems should be easy to reason about, stable in real use,
 I care about architecture not as theory, but as a way to make delivery, support, and long-term system evolution more predictable.
 
 ---
-
 ## Stack
 
-`Java` `Spring Boot` `REST API` `gRPC` `PostgreSQL` `Redis` `Docker` `CI/CD` `GitHub Actions` `S3` `JWT` `OAuth2` `Python` `Telegram`
+`Java` `Spring Boot` `REST API` `gRPC` `Kafka` `PostgreSQL` `Redis` `Docker` `CI/CD` `GitHub Actions` `Testcontainers` `S3` `JWT/OAuth2` `Python`
 
 ---
 
