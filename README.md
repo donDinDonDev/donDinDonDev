@@ -26,9 +26,9 @@ I design and build backend systems in Java / Spring Boot with a focus on clarity
 
 I build backend systems for products that need more than code that simply works.
 
-My focus is on systems that stay clear in architecture, reliable in production, and maintainable as complexity grows.
+My focus is on systems that remain clear in architecture, reliable in production, and maintainable as complexity grows.
 
-I work across backend architecture, business logic, API design, authentication, persistence, integrations, engineering automation, and production-focused backend delivery.
+I work across backend architecture, business logic, API design, authentication, persistence, integrations, engineering automation, and the delivery of production-ready backend systems.
 
 ---
 ## What I Work With
@@ -37,11 +37,11 @@ I work across backend architecture, business logic, API design, authentication, 
 - **REST API and gRPC services**
 - **JWT / OAuth2 authentication and authorization**
 - **PostgreSQL, Redis, and transactional backend workflows**
-- **distributed and integration-heavy backend systems, including event-driven workflows**
+- **Distributed and integration-heavy backend systems, including event-driven workflows**
 - **Docker and CI/CD pipelines**
 - **S3-compatible object storage and file handling**
-- **testing and delivery tooling, including Testcontainers and GitHub Actions**
-- **Python tooling, automation, and AI-related backend services**
+- **Testing and delivery tooling, including Testcontainers and GitHub Actions**
+- **Python tooling, automation, and backend services with AI integrations**
 - **AI-assisted development workflows, including practical Codex usage**
 
 ---
