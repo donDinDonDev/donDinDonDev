@@ -9,7 +9,7 @@
 <br />
 <br />
 
-# Hi, I'm Don
+# Hi, I'm Denis
 
 ### Java Backend Developer focused on scalable, production-oriented backend systems
 
