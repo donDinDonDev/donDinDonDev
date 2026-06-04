@@ -67,4 +67,4 @@ Good backend systems should be easy to reason about, reliable in real use, and s
 
 I care about architecture not as theory, but as a way to make delivery, support, testing, and long-term system evolution more predictable.
 
-`Java` `Spring Boot` `REST API` `gRPC` `PostgreSQL` `Redis` `Tarantool` `Docker` `CI/CD` `GitHub Actions` `Testcontainers` `JWT/OAuth2` `Python` `Codex`
+
