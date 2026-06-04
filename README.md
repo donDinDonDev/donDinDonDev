@@ -25,39 +25,69 @@ I also use Codex and agentic engineering workflows to explore large repositories
 
 ## Featured Work
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### [agent-project-memory](https://github.com/donDinDonDev/agent-project-memory)
 
 Local-first CLI for generating evidence-backed project memory for Java/Spring codebases.
 
-`Java` `Maven` `Static Analysis` `CLI` `Project Memory` `Documentation`
+`Java` `Maven` `CLI` `Static Analysis` `Project Memory`
 
-Shows product thinking, deterministic source analysis, structured documentation, test discipline, and a clear v0.1 release scope.
+**Shows:** product thinking, deterministic source analysis, structured documentation, test discipline, and release scope.
 
----
+</td>
+<td width="50%" valign="top">
 
 ### [grpc-kv-service-tarantool](https://github.com/donDinDonDev/grpc-kv-service-tarantool)
 
 Production-style Spring Boot gRPC key-value service backed by Tarantool.
 
-`Java` `Spring Boot` `gRPC` `Tarantool` `Docker` `Testcontainers` `CI` `Observability`
+`Java` `Spring Boot` `gRPC` `Tarantool` `Docker`
 
-Shows backend architecture, API contracts, containerized local development, integration testing, runtime configuration, and performance-oriented documentation.
+**Shows:** backend architecture, API contracts, integration testing, observability, runtime configuration, and performance-aware documentation.
 
----
+</td>
+</tr>
+</table>
 
 ## Engineering Focus
 
-**Backend systems**  
-Java services, API design, business logic, persistence, and maintainable architecture.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Integrations**  
+### Backend Systems
+
+Java services, API design, business logic, persistence, maintainable architecture, and production-oriented delivery.
+
+</td>
+<td width="50%" valign="top">
+
+### Integrations
+
 REST, gRPC, authentication, external systems, data consistency, and failure-aware workflows.
 
-**Delivery**  
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Delivery
+
 Docker, CI/CD, GitHub Actions, Testcontainers, reproducible local runs, and quality gates.
 
-**AI-assisted engineering**  
+</td>
+<td width="50%" valign="top">
+
+### AI-Assisted Engineering
+
 Repository exploration, implementation planning, debugging, test strengthening, and architectural review with Codex.
+
+</td>
+</tr>
+</table>
 
 ## Engineering Approach
 
