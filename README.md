@@ -23,31 +23,48 @@ I also use Codex and agentic engineering workflows to explore large repositories
 
 ---
 
-## Start Here
+## Featured Work
 
-| Project | What it shows |
-| --- | --- |
-| **[agent-project-memory](https://github.com/donDinDonDev/agent-project-memory)** | Local-first CLI for generating evidence-backed project memory for Java/Spring codebases. Shows product thinking, deterministic analysis, docs, tests, and release discipline. |
-| **[grpc-kv-service-tarantool](https://github.com/donDinDonDev/grpc-kv-service-tarantool)** | Production-style Spring Boot gRPC key-value service backed by Tarantool. Shows backend architecture, API contracts, Docker, CI, observability, Testcontainers, and performance-oriented documentation. |
+### [agent-project-memory](https://github.com/donDinDonDev/agent-project-memory)
 
-## What I Work With
+Local-first CLI for generating evidence-backed project memory for Java/Spring codebases.
 
-| Area | Focus |
-| --- | --- |
-| Backend systems | Java services, Spring Boot, API design, business logic, persistence |
-| Integrations | REST, gRPC, authentication, external systems, data consistency |
-| Infrastructure | Docker, CI/CD, GitHub Actions, local and containerized workflows |
-| Testing | Unit, integration, Testcontainers, reproducible quality gates |
-| AI-assisted engineering | Repository exploration, implementation planning, debugging, review, test strengthening |
+`Java` `Maven` `Static Analysis` `CLI` `Project Memory` `Documentation`
+
+Shows product thinking, deterministic source analysis, structured documentation, test discipline, and a clear v0.1 release scope.
+
+---
+
+### [grpc-kv-service-tarantool](https://github.com/donDinDonDev/grpc-kv-service-tarantool)
+
+Production-style Spring Boot gRPC key-value service backed by Tarantool.
+
+`Java` `Spring Boot` `gRPC` `Tarantool` `Docker` `Testcontainers` `CI` `Observability`
+
+Shows backend architecture, API contracts, containerized local development, integration testing, runtime configuration, and performance-oriented documentation.
+
+---
+
+## Engineering Focus
+
+**Backend systems**  
+Java services, API design, business logic, persistence, and maintainable architecture.
+
+**Integrations**  
+REST, gRPC, authentication, external systems, data consistency, and failure-aware workflows.
+
+**Delivery**  
+Docker, CI/CD, GitHub Actions, Testcontainers, reproducible local runs, and quality gates.
+
+**AI-assisted engineering**  
+Repository exploration, implementation planning, debugging, test strengthening, and architectural review with Codex.
 
 ## Engineering Approach
 
 I prefer practical engineering over decorative complexity.
 
-For me, good backend systems should be easy to reason about, reliable in real use, and structured to evolve without turning into chaos.
+Good backend systems should be easy to reason about, reliable in real use, and structured to evolve without turning into chaos.
 
 I care about architecture not as theory, but as a way to make delivery, support, testing, and long-term system evolution more predictable.
-
-## Stack
 
 `Java` `Spring Boot` `REST API` `gRPC` `PostgreSQL` `Redis` `Tarantool` `Docker` `CI/CD` `GitHub Actions` `Testcontainers` `JWT/OAuth2` `Python` `Codex`
