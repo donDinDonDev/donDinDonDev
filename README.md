@@ -1,29 +1,44 @@
+<div align="center">
+
 # Hi, I'm Denis
 
-Java Backend Developer building reliable backend systems and integrations.
+### Java Backend Developer building reliable backend systems and integrations
 
-I work with Java backend systems, API design, business logic, persistence, integrations, testing, and production-oriented delivery. I care about clear architecture, maintainable code, and changes that can be safely understood, tested, and evolved.
+I build backend services with clear architecture, testable business logic, reliable integrations, and production-oriented delivery.
 
-I also use Codex and agentic engineering workflows as a serious part of my development process: exploring large repositories, planning changes, implementing features, strengthening tests, debugging failures, and reviewing architectural risks.
+I also use Codex and agentic engineering workflows to explore large repositories, plan changes, strengthen tests, debug failures, and review architectural risks.
+
+<br />
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=white)
+
+</div>
+
+---
 
 ## Start Here
 
-- **[agent-project-memory](https://github.com/donDinDonDev/agent-project-memory)**  
-  Local-first CLI for generating evidence-backed project memory for Java/Spring codebases.
-
-- **[grpc-kv-service-tarantool](https://github.com/donDinDonDev/grpc-kv-service-tarantool)**  
-  Production-style Spring Boot gRPC key-value service backed by Tarantool, with Docker, CI, observability, and Testcontainers.
+| Project | What it shows |
+| --- | --- |
+| **[agent-project-memory](https://github.com/donDinDonDev/agent-project-memory)** | Local-first CLI for generating evidence-backed project memory for Java/Spring codebases. Shows product thinking, deterministic analysis, docs, tests, and release discipline. |
+| **[grpc-kv-service-tarantool](https://github.com/donDinDonDev/grpc-kv-service-tarantool)** | Production-style Spring Boot gRPC key-value service backed by Tarantool. Shows backend architecture, API contracts, Docker, CI, observability, Testcontainers, and performance-oriented documentation. |
 
 ## What I Work With
 
-- Java backend services
-- Spring Boot, REST APIs, and gRPC services
-- PostgreSQL, Redis, Tarantool, and transactional backend workflows
-- Authentication and authorization with JWT / OAuth2
-- Docker, CI/CD, GitHub Actions, and Testcontainers
-- Backend architecture, integrations, testing, debugging, and review
-- Python tooling and automation
-- Codex-assisted workflows for large repositories and complex backend tasks
+| Area | Focus |
+| --- | --- |
+| Backend systems | Java services, Spring Boot, API design, business logic, persistence |
+| Integrations | REST, gRPC, authentication, external systems, data consistency |
+| Infrastructure | Docker, CI/CD, GitHub Actions, local and containerized workflows |
+| Testing | Unit, integration, Testcontainers, reproducible quality gates |
+| AI-assisted engineering | Repository exploration, implementation planning, debugging, review, test strengthening |
 
 ## Engineering Approach
 
