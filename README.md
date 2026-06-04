@@ -21,15 +21,13 @@ I also use Codex and agentic engineering workflows to explore large repositories
 
 </div>
 
----
-
 ## Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [agent-project-memory](https://github.com/donDinDonDev/agent-project-memory)
+**[agent-project-memory](https://github.com/donDinDonDev/agent-project-memory)**
 
 Local-first CLI for generating evidence-backed project memory for Java/Spring codebases.
 
@@ -40,7 +38,7 @@ Local-first CLI for generating evidence-backed project memory for Java/Spring co
 </td>
 <td width="50%" valign="top">
 
-### [grpc-kv-service-tarantool](https://github.com/donDinDonDev/grpc-kv-service-tarantool)
+**[grpc-kv-service-tarantool](https://github.com/donDinDonDev/grpc-kv-service-tarantool)**
 
 Production-style Spring Boot gRPC key-value service backed by Tarantool.
 
@@ -58,14 +56,14 @@ Production-style Spring Boot gRPC key-value service backed by Tarantool.
 <tr>
 <td width="50%" valign="top">
 
-### Backend Systems
+**Backend Systems**
 
 Java services, API design, business logic, persistence, maintainable architecture, and production-oriented delivery.
 
 </td>
 <td width="50%" valign="top">
 
-### Integrations
+**Integrations**
 
 REST, gRPC, authentication, external systems, data consistency, and failure-aware workflows.
 
@@ -74,27 +72,19 @@ REST, gRPC, authentication, external systems, data consistency, and failure-awar
 <tr>
 <td width="50%" valign="top">
 
-### Delivery
+**Delivery**
 
 Docker, CI/CD, GitHub Actions, Testcontainers, reproducible local runs, and quality gates.
 
 </td>
 <td width="50%" valign="top">
 
-### AI-Assisted Engineering
+**AI-Assisted Engineering**
 
 Repository exploration, implementation planning, debugging, test strengthening, and architectural review with Codex.
 
 </td>
 </tr>
 </table>
-
-## Engineering Approach
-
-I prefer practical engineering over decorative complexity.
-
-Good backend systems should be easy to reason about, reliable in real use, and structured to evolve without turning into chaos.
-
-I care about architecture not as theory, but as a way to make delivery, support, testing, and long-term system evolution more predictable.
 
 
