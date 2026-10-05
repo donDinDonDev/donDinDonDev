@@ -4,9 +4,9 @@
 
 ### Java Backend Developer building reliable systems and integrations
 
-I build backend services with clear architecture, testable business logic, reliable integrations, and production-oriented delivery.
+I build backend services with Java and Spring Boot, focusing on clear architecture, reliable integrations, and maintainable code.
 
-I use Codex and agentic engineering workflows to explore large repositories, plan changes, strengthen tests, debug failures, and review architectural risks.
+I use Codex to explore large codebases, plan and implement changes, and debug issues. I review and test the resulting changes.
 
 <br />
 
